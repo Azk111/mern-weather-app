@@ -1,12 +1,14 @@
 # mern-weather-app
-A full-stack MERN weather application that allows users to search, view, and save weather forecasts for cities using OpenWeatherMap API.
+
+This is a full-stack weather application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).  
+It allows users to search for cities, view real-time weather data and 5-day forecasts using the OpenWeatherMap API, and save cities to their account.
 
 ---
 
-## 🔗 Project Download Link (Google Drive)
+## 📦 Project Download Link (Google Drive)
 
 Click below to download the full project:
 
-👉 [Download Project ZIP from Google Drive](https://drive.google.com/file/d/1l03INA48VEfENbXX7911NoSTGJenhnPD/view?usp=drive_link)
+👉 [Download Project ZIP from Google Drive](https://drive.google.com/file/d/1I031NA48VEfNbXX7911NoSTGJenhPND/view?usp=drive_link)
 
 After downloading, extract the ZIP to view all code files.
