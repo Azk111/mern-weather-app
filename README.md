@@ -1,14 +1,56 @@
-# mern-weather-app
+# 🌦 MERN Weather App
 
-This is a full-stack weather application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).  
-It allows users to search for cities, view real-time weather data and 5-day forecasts using the OpenWeatherMap API, and save cities to their account.
+## 🎯 Project Title & Objective
+
+**Project Title:** MERN Weather App  
+**Objective:** To build a full-stack weather application using MongoDB, Express.js, React.js, and Node.js that allows users to search and save city-based weather data.
 
 ---
 
-## 📦 Project Download Link (Google Drive)
+## 📖 Project Description
 
-Click below to download the full project:
+This weather application allows users to:
+- Search for any city to get current weather information.
+- View details like temperature, weather description, humidity, wind speed.
+- Save searched cities to a MongoDB database.
+- Delete cities they no longer want to keep.
+- Bonus: Added features like 5-day forecast and day/night animation.
 
-👉 [Download Project ZIP from Google Drive](https://drive.google.com/file/d/1l03INA48VEfENbXX7911NoSTGJenhnPD/view?usp=drive_link)
+---
 
-After downloading, extract the ZIP to view all code files.
+## 🔗 GitHub Repository
+
+[Click here to view GitHub Repo](https://github.com/Azk111/mern-weather-app)
+
+---
+
+## 🔗 Download Full Project
+
+[Download the Full Project (ZIP)](https://drive.google.com/file/d/1l03INA48VEfENbXX7911NoSTGJenhnPD/view?usp=drive_link)
+
+---
+
+## 🧪 Technologies Used
+
+- **Frontend**: React.js, CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB + Mongoose
+- **API**: OpenWeatherMap API
+- **Deployment**: (Add if deployed)
+
+---
+
+## ⚙️ Setup Instructions
+
+### 🔹 Frontend:
+cd client
+npm install
+npm run dev
+
+### 🔹 Backend:
+Copy
+Edit
+cd server
+npm install
+npm start
+
