@@ -1,4 +1,6 @@
 # mern-weather-app
+A full-stack MERN weather application that allows users to search, view, and save weather forecasts for cities using OpenWeatherMap API.
+
 ---
 
 ## 🔗 Project Download Link (Google Drive)
