@@ -54,3 +54,20 @@ cd server
 npm install
 npm start
 
+---
+
+## 📷 Screenshots
+
+### 🔍 Login/signup
+![Login](https://github.com/Azk111/mern-weather-app/blob/main/login.png)
+### 🔍 Weather Search
+![Search](https://github.com/Azk111/mern-weather-app/blob/main/search.png)
+
+### 🌦️ Weather Result Display
+![Result](https://github.com/Azk111/mern-weather-app/blob/main/forecast.png)
+
+### 💾 Saved Cities List
+![Saved](https://github.com/Azk111/mern-weather-app/blob/main/saved.png)
+
+### 💾 Deleted Cities List
+![Deleted](https://github.com/Azk111/mern-weather-app/blob/main/deleted.png)
